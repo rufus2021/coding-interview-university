@@ -601,7 +601,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] size() - number of items
         - [x] capacity() - number of items it can hold
         - [x] is_empty()
-        - [ ] at(index) - returns item at given index, blows up if index out of bounds
+        - [x] get(index) - returns item at given index, blows up if index out of bounds
         - [x] append(item)
         - [x] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
         - [x] prepend(item) - can use insert above at index 0
